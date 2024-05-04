@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, meu nome é Alexandre Marques  👋
 
-<!--
-**alexandremarquesrocha/alexandremarquesrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
 
-Here are some ideas to get you started:
+Dev. iniciante com o sonho de ser um programador de alto nível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Idioma principal: JavaScript
+* Back-end: Java
+* Front-end: HTML5, CSS3, JavaScript
+* Controle de código de versão: Git e Github
+* Ferramentas: VsCode, Markdown
+
+
+email: alexandremarquesrocha1401@gmail.com
+Linkedin: https://www.linkedin.com/in/alexandre-marques-rocha-39ab22307/
